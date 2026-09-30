@@ -1,46 +1,24 @@
-# Hey there, I'm SunLun 👋
-### 🕹️ Game Developer | Unity Craftsman
+# Hey there, I'm SunLun 👋  
+**Game Developer | Unity Craftsman**  
 
-<p align="left">
-  <img src="https://shields.io" alt="Unity" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Visual Studio" />
-  <img src="https://shields.io" alt="Aseprite" />
-</p>
+### 🛠 Tech Stack  
+**Core:**  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
----
 
-## 🎮 Featured Projects
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite&logoColor=white)
 
-Здесь собраны мои основные игры, созданные на Unity. Вы можете запустить их прямо в браузере!
+### 🎮 Current Project  
+**[Food of the Deep](https://SunLun.itch.io/food-of-the-deep)** - Take control of a hungry shark starting its journey near the surface. To survive the crushing DEPTHS, you must consume everything in your path. The more you eat, the larger you grow, allowing you to dive deeper into the darkness where even bigger threats await. Can you become the true apex predator and defeat the Ancient Boss of the Abyss?
 
-### 🦈 [Food of the Deep](https://SunLun.itch.io/food-of-the-deep)
-> **Жанр:** Survival / Arcade | **Платформа:** WebGL (HTML5)
-*   **Геймплей:** Возьмите под контроль голодную акулу. Пожирайте всё на своём пути, растите и погружайтесь в тёмные глубины океана.
-*   **Цель:** Выжить в суровой бездне и победить Древнего Босса.
-*   **Достижения:** Игра заняла **#1 место** на игровом джеме Woodlands CS Club (Весна 2026)! 🏆
+**[The Rift Between](https://sunlun.itch.io/the-rift-between)** Imagine: a fragile girl with rare abilities can travel between worlds, fight monsters, and collect glowing particles from them. These particles open a portal to the next world—deeper and more dangerous.
+And at the very end, an epic boss awaits you—a beautiful girl with a mass of writhing tentacles...
+The game is called The Rift Between—short, atmospheric, and quite unusual.
 
-### 🔮 [The Rift Between](https://sunlun.itch.io/the-rift-between)
-> **Жанр:** Atmospheric Platformer / Action | **Платформа:** WebGL (HTML5)
-*   **Геймплей:** Управляйте хрупкой девушкой с редкими способностями, путешествуйте между мирами и сражайтесь с монстрами.
-*   **Особенность:** Собирайте светящиеся частицы, чтобы открывать порталы в более опасные локации.
-*   **Финал:** В самом конце вас ждёт эпический босс — прекрасная девушка с кучей извивающихся щупалец.
-*   *Разработано совместно с Byte624 для Ludum Dare 59.*
-
-### 🟦 [NEON ABYSS](https://sunlun.itch.io/neon-abyss)
-> **Жанр:** Endless Runner / Roguelite | **Платформа:** WebGL (HTML5)
-*   **Геймплей:** Динамичный бесконечный спуск в неоновую бездну.
-*   **Задача:** Играя за синий куб, уворачивайтесь от преследующих вас красных неоновых кубов и опасных препятствий.
-*   **Вопрос:** Как глубоко вы сможете зайти?
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="SunLun's GitHub stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Langs" height="180px" />
-</p>
-
-## 🌐 Connect with me
-[![Itch.io](https://shields.io)](https://sunlun.itch.io/)
+**[NEON ABYSS](https://sunlun.itch.io/neon-abyss)** A simple endless descent where you are chased by red neon cubes. You play as a blue cube falling into the abyss. Will you be able to survive?
+Avoid the red cubes and all sorts of obstacles. Stay alive as long as possible.
+How deep can you go?
