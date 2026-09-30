@@ -1,13 +1,13 @@
 # Hi there, I'm SunLun! 🎮✨
 
-<!-- Креативный игровой баннер (Генерируется динамически) -->
+<!-- Простой и надежный баннер -->
 <p align="center">
   <img src="https://vercel.app" alt="GameDev Banner" />
 </p>
 
-<!-- Анимированная строчка приветствия -->
+<!-- Анимированная строчка приветствия (исправленная ссылка) -->
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,12 +30,8 @@
 
 ### **Core Engine & Language**
 <p align="left">
-  <a href="https://unity.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="Unity" />
-  </a>
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="50" height="50" alt="C#" />
-  </a>
+  <img src="https://shields.io" alt="Unity" />
+  <img src="https://shields.io" alt="C#" />
 </p>
 
 ### **Software & Workflow Art**
@@ -49,81 +45,25 @@
 
 ## 🎮 Мои проекты / Featured Projects
 
-<table width="100%">
-  <!-- Проект 1 -->
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🦈 <a href="https://itch.io">Food of the Deep</a></h3>
-      <p>Управляйте голодной акулой, начинающей свой путь у поверхности. Чтобы выжить на сокрушительной глубине, вы должны поглощать всё на своём пути. Чем больше вы едите, тем крупнее становитесь, открывая путь в тёмную бездну.</p>
-      <p><b>Особенности:</b> Процедурный рост, механика давления глубины, битвы с боссами.</p>
-      <p>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </p>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <!-- ЗАМЕНИТЕ ССЫЛКУ НИЖЕ НА GIF ИЗ ВАШЕЙ ИГРЫ (например, загрузив её в репозиторий) -->
-      <img src="https://giphy.com" width="100%" alt="Food of the Deep Gameplay" style="border-radius: 8px;" />
-    </td>
-  </tr>
+### 🦈 [Food of the Deep](https://itch.io)
+Управляйте голодной акулой, начинающей свой путь у поверхности. Чтобы выжить на сокрушительной глубине, вы должны поглощать всё на своём пути. Чем больше вы етите, тем крупнее становитесь, открывая путь в тёмную бездну.
+- **Особенности:** Процедурный рост, механика давления глубины, битвы с боссами.
 
-  <!-- Проект 2 -->
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🌌 <a href="https://ldjam.com">The Rift Between</a></h3>
-      <p>Атмосферная игра про хрупкую девушку с редкими способностями. Она может путешествовать между мирами, сражаться с монстрами и собирать светящиеся частицы для открытия порталов.</p>
-      <p><b>Особенности:</b> Механика переключения измерений (World-switching), динамический ИИ босса с щупальцами.</p>
-      <p>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </p>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://giphy.com" width="100%" alt="The Rift Between Gameplay" style="border-radius: 8px;" />
-    </td>
-  </tr>
+### 🌌 [The Rift Between](https://ldjam.com)
+Атмосферная игра про хрупкую девушку с редкими способностями. Она может путешествовать между мирами, сражаться с монстрами и собирать светящиеся частицы для открытия порталов.
+- **Особенности:** Механика переключения измерений (World-switching), динамический ИИ босса с щупальцами.
 
-  <!-- Проект 3 -->
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🔳 <a href="https://itch.io">NEON ABYSS</a></h3>
-      <p>Динамичный бесконечный спуск в бездну, где за синим кубом игрока гонятся агрессивные красные неоновые кубы. Уклоняйтесь от препятствий и проверяйте скорость своей реакции.</p>
-      <p><b>Особенности:</b> Нарастающий темп, процедурная генерация препятствий, аркадная таблица рекордов.</p>
-      <p>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </p>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://giphy.com" width="100%" alt="Neon Abyss Gameplay" style="border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+### 🔳 [NEON ABYSS](https://itch.io)
+Динамичный бесконечный спуск в бездну, где за синим кубом игрока гонятся агрессивные красные neon кубы. Уклоняйтесь от препятствий и проверяйте скорость своей реакции.
+- **Особенности:** Нарастающий темп, процедурная генерация препятствий.
 
 ---
 
 ## 📊 Моя игровая статистика / Dev Stats
 
-<!-- Красивые интерактивные карточки активности в неоновом стиле -->
 <p align="center">
   <img src="https://vercel.app" alt="SunLunDev GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-## 🐍 Моя Змейка-Коммит / Contribution Snake
-<!-- Если настроите Action из видео, этот блок оживёт! -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="Github-snake" src="https://githubusercontent.com" width="100%">
-  </picture>
 </p>
 
 ---
@@ -135,9 +75,6 @@
   </a>
   <a href="https://ldjam.com" target="_blank">
     <img src="https://shields.io" alt="Ludum Dare" />
-  </a>
-  <a href="https://x.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter" />
   </a>
 </p>
 
